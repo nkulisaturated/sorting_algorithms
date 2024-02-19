@@ -1,5 +1,3 @@
-94% of storage used … If you run out, you can't create, edit, and upload files. Get 100 GB of storage for R 34.99 R 8.99/month for 3 months.
-103-merge_sort.c
 #include "sort.h"
 
 void merge_subarr(int *subarr, int *buff, size_t front, size_t mid,
